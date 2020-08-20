@@ -46,6 +46,11 @@ public class AppContent extends HttpServlet {
 		}catch(IOException e){
 			System.out.println("예외 발생" + e.getMessage());
 		}
+	
+	
+	
+	
+	
 	}
 
 }
